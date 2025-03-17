@@ -18,3 +18,4 @@ Once the script finishes running, submit the `results.csv` file to the competiti
 
 If you are using a GPU, ensure that the device is correctly configured by setting `device_ids = [7]` and `device = f'cuda:{device_ids[0]}'`. Adjust the GPU or CPU settings based on your system.
 
+
